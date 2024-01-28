@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Founders Grotesk Mono;
+    src: url(https://github.com/keteksemut/waduhwaduhlur/raw/main/FoundersGroteskMono-Regular.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Staff Condensed;
+    src: url(https://github.com/keteksemut/waduhwaduhlur/raw/main/StaffCondensed-Bold.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Staff Regular;
+    src: url(https://github.com/keteksemut/waduhwaduhlur/raw/main/Staff-Regular.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Staff Wide;
+    src: url(https://github.com/keteksemut/waduhwaduhlur/raw/main/StaffWide-Bold.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Staff XX Condensed;
+    src: url(https://github.com/keteksemut/waduhwaduhlur/raw/main/StaffXXCondensed-Light.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 300
+}
+
+@font-face {
+    font-family: Staff XXX Condensed;
+    src: url(https://github.com/keteksemut/waduhwaduhlur/raw/main/StaffXXXCondensed-Medium.woff2) format("woff2");
+    font-display: swap;
+    font-weight: 500
+}
